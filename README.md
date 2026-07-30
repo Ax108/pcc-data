@@ -16,8 +16,9 @@ assets/
 └── partners/
 ```
 
-Paths in the React app are `/assets/...` relative to this repo root once hosted
-(e.g. `https://<your-cdn>/assets/logo/logo-header.png`).
+Paths in the React app are relative to this folder once hosted:
+
+`https://ax108.github.io/pcc-data/assets/logo/logo-header.png`
 
 ## App wiring
 
